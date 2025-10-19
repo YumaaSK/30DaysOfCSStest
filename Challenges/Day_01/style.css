@@ -1,9 +1,9 @@
 body{
-  background-color: #F398BE;
+  background-color: #000000;
 }
 
 .box{
-  background-color: whitesmoke;
+  background-color: rgb(163, 206, 181);
   position: absolute;
   top: 50%;
   left: 50%;
@@ -13,8 +13,8 @@ body{
 }
 
 .search{
-  color: #9E314B;
-  background-color: #F398BE;
+  color: #000000;
+  background-color: #929292;
   width: 50px;
   height: 50px;
   border-radius: 50%;
